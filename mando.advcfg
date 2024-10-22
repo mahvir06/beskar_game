@@ -1,0 +1,9 @@
+Coordinates/Name/Enter Text/Enter Result/Nearby Text/Nearby Sound/End Sound/
+8,6/size/This is the size of the map///
+0,4/start/Welcome to the planet Nevarro. Moff Gideon's imperial forces have stolen your Beskar armor - you must traverse through the desert to retrieve it.////
+7,0/rancor/You've been killed by a rancor beast./lose/A wild creature looms.../rancor.wav/rancorkill.wav/
+5,4/seismic charge/SEISMIC CHARGES!/lose/Sounds like a ship overhead.../ship.wav/seismiccharge.wav/
+3,1/jawas/Jawas captured you in their sandcrawler. You escaped, but are not where you were captured./randomMove/Sounds like a vehicle driving by.../sandcrawler.wav/
+1,2/stormtroopers/You've been spotted by Stormtroopers! You ran somewhere else to evade them./randomMove/Sounds like someone's on... comms?/stormtrooper.wav/
+2,4/jetpack/Your jetpack malfunctioned and flew you to another spot./randomMove/Those sounds are coming from your jetpack. Let's hope nothing comes of it.../jetpack.wav/
+4,1/Beskar/You have found your Beskar armor hanging on a post. It's time to leave Nevarro and put a stop to Moff Gideon./win/Something is clanking in the wind.../beskar_clank.wav/victory.wav/
